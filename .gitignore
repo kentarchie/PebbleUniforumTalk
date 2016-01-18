@@ -1,0 +1,6 @@
+# images are embedded in the doc, don't need temp storage
+images
+# LibreOffice lock files
+.~lock*
+#vim swap files
+*.swp
